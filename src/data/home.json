@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "OCTOOC — Sua Tecnologia, Nossa Expertise",
+    "description": "Descubra as melhores soluções tecnológicas para o seu dia a dia com a OcTooC."
+  },
+  "hero": {
+    "title": "Sua Tecnologia, Nossa Expertise",
+    "subtitle": "Descubra as melhores soluções tecnológicas para o seu dia a dia com a OcTooC.",
+    "btnText": "Saiba Mais",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Nossos Serviços",
+    "items": [
+      {
+        "icon": "🧑‍🏫",
+        "title": "Tutoriais Exclusivos",
+        "desc": "Aprenda a utilizar novas tecnologias de maneira fácil e prática."
+      },
+      {
+        "icon": "📱",
+        "title": "Indicações de Novas Tecnologias",
+        "desc": "Receba recomendações personalizadas sobre os melhores gadgets e aplicativos."
+      },
+      {
+        "icon": "💰",
+        "title": "Tudo sobre Criptomoedas",
+        "desc": "Fique por dentro do universo das criptomoedas e como investir de forma segura."
+      },
+      {
+        "icon": "🧑‍🎓",
+        "title": "Indicações de Cursos de Capacitação",
+        "desc": "Encontre os cursos que melhor se adequam às suas necessidades profissionais."
+      },
+      {
+        "icon": "🛠️",
+        "title": "Consultorias com Profissionais Capacitados",
+        "desc": "Tenha acesso a especialistas prontos para ajudar na sua jornada tecnológica."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre a OcTooC",
+    "desc": "A OcTooC é sua parceira no mundo da tecnologia, oferecendo serviços especializados para facilitar seu cotidiano. Estamos sempre atualizados com as últimas tendências e inovações do mercado.",
+    "stats": [
+      {
+        "value": "100+",
+        "label": "Tutoriais disponíveis"
+      },
+      {
+        "value": "50%",
+        "label": "Aumento de Produtividade"
+      },
+      {
+        "value": "20+",
+        "label": "Especialistas em nosso time"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

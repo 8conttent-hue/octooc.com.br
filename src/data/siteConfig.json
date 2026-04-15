@@ -1,0 +1,53 @@
+{
+  "name": "OCTOOC",
+  "slug": "octooc.com.br",
+  "description": "Somos uma empresa de prestação de serviços no ramo tecnológico voltada para o cliente final. Percebemos a necessidade das pessoas em ter a melhor tecnologia disponível no mercado e estamos aqui para fazer esta curadoria por você. Hoje em dia a tecnologia está em vários momentos do seu dia a dia, portanto, saber qual você vai usar pode significar ganho de produtividade, ganho financeiro e destaque profissional. É praticamente impossível você sozinho acompanhar todas as atualizações de mercado, aprender todas as novas funcionalidades de um novo aplicativo ou até mesmo entender qual é o melhor curso de capacitação para você, por isso estamos aqui para te ajudar e facilitar a sua vida com: Tutoriais exclusivos Indicações de novas tecnologias Tudo sobre Criptomoedas Indicações de cursos de Capacitações Consultorias com profissionais capacitados. A OcTooC é uma empresa voltada para te guiar quando o assunto é tecnologia. Mais do que um site de consultas, nós somos o caminho mais curto para você encontrar o que há de melhor no mercado tecnológico e facilitar o seu dia a dia.",
+  "url": "https://octooc.com.br",
+  "niche": "Tecnologia",
+  "keywords": "Somos uma empresa de prestacao de servicos no ramo tecnologico voltada para",
+  "email": "contato@octooc.com.br",
+  "palette": "forest",
+  "colors": {
+    "primary": "#16a34a",
+    "accent": "#14532d",
+    "dark": "#052e16"
+  },
+  "headerContrast": "light",
+  "font": "lora",
+  "fontFamily": "'Lora', serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap",
+  "components": {
+    "header": "Header-D",
+    "hero": "Hero-C",
+    "features": "Features-D",
+    "about": "About-E",
+    "posts": "Posts-C",
+    "footer": "Footer-D",
+    "sobre": "Sobre-B",
+    "contato": "Contato-I"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

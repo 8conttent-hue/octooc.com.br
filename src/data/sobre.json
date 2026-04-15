@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o OCTOOC"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "A OcTooC é sua parceira no mundo da tecnologia, oferecendo serviços especializados para facilitar seu cotidiano. Estamos sempre atualizados com as últimas tendências e inovações do mercado."
+  },
+  "content": "Na OcTooC, nossa missão é simplificar sua experiência com a tecnologia, oferecendo um direcionamento claro e objetivo. Entendemos que, em um mundo onde a tecnologia evolui rapidamente, ter um guia confiável é essencial para o sucesso profissional e pessoal.",
+  "mission": "Facilitar o acesso à tecnologia, aumentando a produtividade e potencializando o desenvolvimento pessoal e profissional.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "800+",
+      "label": "Tutoriais"
+    },
+    {
+      "value": "150k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "8",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}
